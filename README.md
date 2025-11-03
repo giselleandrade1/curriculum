@@ -30,21 +30,21 @@ Observações rápidas
 
 ## 📫 Entre em Contato
 
-<p style="display:flex;justify-content:space-between;gap:10px;">
-	<a href="https://www.linkedin.com/in/giselleandrades2" target="_blank" style="flex:1;max-width:80px;">
-		<img style="border-radius:70%;width:80px;max-width:80px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p style="display:flex;justify-content:center;gap:16px;">
+	<a href="https://www.linkedin.com/in/giselleandrades2" target="_blank" style="display:flex;align-items:center;justify-content:center;width:80px;height:40px;">
+		<img style="border-radius:70%;width:80px;height:40px;object-fit:cover;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
-	<a href="https://github.com/giselleandrade1" target="_blank" style="flex:1;max-width:80px;">
-		<img style="border-radius:70%;width:80px;max-width:80px;" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+	<a href="https://github.com/giselleandrade1" target="_blank" style="display:flex;align-items:center;justify-content:center;width:80px;height:40px;">
+		<img style="border-radius:70%;width:80px;height:40px;object-fit:cover;" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 	</a>
-	<a href="mailto:giselleaandrade.sp@gmail.com" style="flex:1;max-width:80px;">
-		<img style="border-radius:70%;width:80px;max-width:80px;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+	<a href="mailto:giselleaandrade.sp@gmail.com" style="display:flex;align-items:center;justify-content:center;width:80px;height:40px;">
+		<img style="border-radius:70%;width:80px;height:40px;object-fit:cover;" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 	</a>
-	<a href="https://www.instagram.com/giselleandrade.s2" target="_blank" style="flex:1;max-width:80px;">
-		<img style="border-radius:70%;width:80px;max-width:80px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+	<a href="https://www.instagram.com/giselleandrade.s2" target="_blank" style="display:flex;align-items:center;justify-content:center;width:80px;height:40px;">
+		<img style="border-radius:70%;width:80px;height:40px;object-fit:cover;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 	</a>
-	<a href="https://discord.com/users/664558448444178464" target="_blank" style="flex:1;max-width:80px;">
-		<img style="border-radius:70%;width:80px;max-width:80px;" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+	<a href="https://discord.com/users/664558448444178464" target="_blank" style="display:flex;align-items:center;justify-content:center;width:80px;height:40px;">
+		<img style="border-radius:70%;width:80px;height:40px;object-fit:cover;" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 	</a>
 </p>
 
